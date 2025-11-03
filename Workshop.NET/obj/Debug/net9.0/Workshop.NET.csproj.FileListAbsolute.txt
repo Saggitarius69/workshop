@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\.net\Workshop.NET\bin\Debug\net9.0\Workshop.NET.exe
+C:\Users\ACER\Documents\.net\Workshop.NET\bin\Debug\net9.0\Workshop.NET.deps.json
+C:\Users\ACER\Documents\.net\Workshop.NET\bin\Debug\net9.0\Workshop.NET.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Workshop.NET\bin\Debug\net9.0\Workshop.NET.dll
+C:\Users\ACER\Documents\.net\Workshop.NET\bin\Debug\net9.0\Workshop.NET.pdb
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.dll
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\refint\Workshop.NET.dll
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.pdb
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\Workshop.NET.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Workshop.NET\obj\Debug\net9.0\ref\Workshop.NET.dll
