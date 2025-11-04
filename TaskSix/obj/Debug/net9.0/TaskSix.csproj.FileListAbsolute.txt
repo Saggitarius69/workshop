@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\TaskSix\bin\Debug\net9.0\TaskSix.exe
+C:\Users\ACER\Documents\.net\TaskSix\bin\Debug\net9.0\TaskSix.deps.json
+C:\Users\ACER\Documents\.net\TaskSix\bin\Debug\net9.0\TaskSix.runtimeconfig.json
+C:\Users\ACER\Documents\.net\TaskSix\bin\Debug\net9.0\TaskSix.dll
+C:\Users\ACER\Documents\.net\TaskSix\bin\Debug\net9.0\TaskSix.pdb
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.sourcelink.json
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.dll
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\refint\TaskSix.dll
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.pdb
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\TaskSix.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\TaskSix\obj\Debug\net9.0\ref\TaskSix.dll
